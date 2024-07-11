@@ -1,7 +1,5 @@
 # CodeLM-CodeUpdateEval
 
-
-# AutoUpdate
 The replication package is created for the paper titled "Automatically Recommend Code Updates: Are We There Yet?"
 
 
